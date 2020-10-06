@@ -1,4 +1,4 @@
-package com.shadow.springsecurityjpa.models;
+package com.shadow.springsecurityjpa;
 
 import java.util.Arrays;
 import java.util.Collection;

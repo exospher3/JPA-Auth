@@ -1,4 +1,4 @@
-package com.shadow.springsecurityjpa.models;
+package com.shadow.springsecurityjpa;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
